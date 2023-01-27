@@ -1,2 +1,3 @@
 # ai-nation-recognition
-A school project. This program is able to recognize countries.
+This is a school project. This program is able to recognize countries.
+
